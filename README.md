@@ -57,6 +57,11 @@ The **Connect Your Wallet** page implements a button to connect _Metamask_ using
 
 The **NFTPage** is the artist's works page, where a countdown timer is implemented until the end of the auction with a button to navigate to the marketplace, and navigation to it is done by clicking on a work card.
 
+- **Кнопка повернення догори:** На довгих сторінках реалізована кнопка для повернення догори, яка дозволяє швидко повернутися на верхню частину сторінки.
+
+- **Back to Top Button:** A back to top button is implemented on long pages, allowing users to quickly return to the top of the page.
+
+
 ## Встановлення / Installation
 
 1. Клонуйте репозиторій:
