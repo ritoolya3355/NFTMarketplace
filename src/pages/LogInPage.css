@@ -1,0 +1,63 @@
+.login-form {
+  width: 35%;
+  margin: 0 auto;
+  border-radius: 10px;
+  background-color: #3b3b3b;
+  display: flex;
+  flex-direction: column;
+  padding: 1%;
+}
+
+.login-form-div {
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.password-input-container {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.login-label {
+  font-size: 1.5rem;
+  width: 30%;
+  margin-right: 10px;
+}
+
+.login-input {
+  height: 35px;
+  padding: 3% 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.toggle-password {
+  position: absolute;
+  left: 80%;
+  border: none;
+  cursor: pointer;
+  background-color: #ffffff00;
+}
+
+.error-message {
+  color: red;
+  font-size: 1.2rem;
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
+
+.btn-login {
+  background-color: var(--main-element-color);
+  font-size: 1.6rem;
+  font-weight: 600;
+  border-radius: 20px;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}

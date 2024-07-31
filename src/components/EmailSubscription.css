@@ -1,0 +1,54 @@
+.subscribe-form {
+    position: relative;
+    width: 100%;
+  }
+  
+  .subscribe-form input {
+    padding: 20px;
+    border-radius: 20px;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 1.6rem;
+    font-weight: 600;
+    padding-right: 120px; 
+  }
+  
+  .subscribe-form button {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    border: none;
+    border-radius: 20px;
+    background-color: var(--main-element-color);
+    color: #fff;
+    font-size: 1.6rem;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 20px 45px;
+    transition: background-color 0.3s;
+  }
+  
+  .subscribe-form button:hover {
+    background-color: #7815fa;
+  }
+  
+  
+  @media (max-width: 768px) {
+    .subscribe-form input {
+      padding-right: 100px;
+      height: 50px;
+    }
+  
+    .subscribe-form button {
+      padding: 15px 30px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .subscribe-form input,
+    .subscribe-form button {
+      font-size: 1.4rem;
+    }
+  }
+  

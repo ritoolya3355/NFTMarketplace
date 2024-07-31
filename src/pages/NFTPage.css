@@ -1,0 +1,158 @@
+.nft-page-container {
+  padding: 20px;
+}
+
+.artist-market-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nft-artist-info {
+  margin: 3% 0;
+}
+
+.nft-artist-info div {
+  display: flex;
+}
+
+.nft-page-title {
+  font-size: 4rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.nft-page-avatar {
+  width: 20%;
+  margin: 1% 2%;
+}
+
+.nft-page-biography {
+  font-size: 2.2rem;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+.timer-container {
+  padding: 0 3%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #3b3b3b;
+  border-radius: 20px;
+  margin: 2%;
+}
+
+.countdown-timer {
+  margin: 5% 0;
+  text-align: center;
+}
+
+.countdown-timer h2 {
+  text-align: start;
+  margin-left: 15px;
+  font-family: 'Space Mono', sans-serif;
+  color: #858584;
+}
+
+.timer {
+  font-family: 'Space Mono', sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+.to-marketplace-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: var(--main-element-color);
+  color: #fff;
+  text-decoration: none;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+.to-marketplace-button:hover {
+  background-color: #7815fa;
+}
+
+.artist-tags span {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin: 1%;
+  padding: 1% 2%;
+  background-color: #3b3b3b;
+  border-radius: 20px;
+}
+
+.nft-page-works {
+  margin-top: 20px;
+}
+
+.nft-page-works h2 {
+  margin-top: 3%;
+  font-size: 2.8rem;
+  font-weight: 600;
+}
+
+.works-gallery {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.work-item {
+  width: calc(33.33% - 10px);
+  margin-bottom: 10px;
+  background-color: #3b3b3b;
+  border-radius: 20px;
+}
+
+.work-info {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 4% 8%;
+}
+
+.work-item img {
+  width: 100%;
+}
+
+.work-title {
+  width: 100%;
+  font-size: 2.2rem;
+  font-weight: 600;
+}
+
+.work-price,
+.work-highest-bid {
+  width: 45%;
+  font-family: 'Space Mono', sans-serif;
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+
+@media (max-width: 1200px) {
+  .work-item {
+    width: calc(50% - 10px);
+  }
+}
+
+@media (max-width: 768px) {
+  .work-item {
+    width: 100%;
+  }
+  .nft-page-title {
+    font-size: 3.5rem;
+     }
+  
+
+}
+
+@media (max-width: 480px) {
+  .artist-market-container {
+    flex-direction: column;
+  }
+}

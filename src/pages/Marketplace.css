@@ -1,0 +1,151 @@
+.marketplace-title {
+  margin: 1% 3%;
+  font-size: 5.1rem;
+  font-weight: 700;
+}
+
+.marketplace-description {
+  margin: 1% 3%;
+  font-size: 2.5rem;
+  font-weight: 500;
+}
+
+.sorting-container {
+  margin: 1% 3%;
+  font-size: 1.6rem;
+}
+
+.works-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.work-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #3b3b3b;
+  width: 28%;
+  border-radius: 20px;
+  margin: 2% 1%;
+}
+
+.work-card h4 {
+  font-size: 2.2rem;
+  font-weight: 600;
+  margin: 1% 5%;
+}
+
+.author-info {
+  margin: 0 2%;
+  display: flex;
+  align-items: center;
+}
+
+.author-info h3 {
+  font-size: 1.6rem;
+  margin-left: 10px;
+}
+
+.price-info {
+  display: flex;
+  flex-direction: column;
+  margin: 1% 5%;
+}
+
+.price-info p {
+  font-size: 1.4rem;
+  margin-bottom: 5px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.pagination button {
+  margin: 0 5px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.pagination button.active {
+  background-color: var(--main-element-color);
+  color: white;
+}
+
+.pagination-arrow {
+  font-size: 18px;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.pagination-arrow:hover {
+  border-color: var(--main-element-color);
+  color: var(--main-element-color);
+}
+
+.pagination-dots {
+  margin: 0 5px;
+}
+
+@media (max-width: 1024px) {
+  .work-card {
+    width: 45%; /* Зменшуємо ширину карток для планшетів */
+  }
+
+  .work-card h4 {
+    font-size: 1.8rem; /* Зменшуємо розмір шрифту назви роботи для планшетів */
+    margin: 1% 5%;
+  }
+
+  .author-info h3 {
+    font-size: 1.4rem; /* Зменшуємо розмір шрифту імені автора для планшетів */
+    margin-left: 5px;
+  }
+
+  .price-info {
+    margin: 1% 5%;
+  }
+
+  .price-info p {
+    font-size: 1.2rem; /* Зменшуємо розмір шрифту інформації про ціну для планшетів */
+    margin-bottom: 3px;
+  }
+}
+
+@media (max-width: 768px) {
+  .marketplace-title {
+    font-size: 3.5rem;
+  }
+
+  .marketplace-description {
+    font-size: 2rem;
+  }
+
+  .work-card {
+    width: 90%; /* Повні ширини карток для мобільних пристроїв */
+    margin: 2% 5%;
+  }
+
+  .work-card h4 {
+    font-size: 1.6rem; /* Зменшуємо розмір шрифту назви роботи для мобільних пристроїв */
+    margin: 1% 5%;
+  }
+
+  .price-info {
+    margin: 1% 5%;
+  }
+
+  .price-info p {
+    font-size: 1rem; /* Зменшуємо розмір шрифту інформації про ціну для мобільних пристроїв */
+    margin-bottom: 3px;
+  }
+}

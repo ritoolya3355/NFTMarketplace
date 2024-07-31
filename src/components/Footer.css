@@ -1,0 +1,103 @@
+footer {
+    background-color: #3b3b3b;
+    border-top: 2px solid var(--main-bg-color);
+    padding: 1% 5%;
+    letter-spacing: 0.2rem;
+  }
+  
+  footer p {
+    color: #cccccc;
+    font-size: 1.2rem;
+    font-weight: 400;
+  }
+  
+  .containers-footer {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border-bottom: 1px solid #858584;
+    gap: 20px;
+  }
+  
+  .container-footer {
+    flex: 1;
+    margin: 10px;
+    min-width: 250px; /* Забезпечує, що контейнери не стають надто маленькими */
+  }
+  
+  .footer-social-links a {
+    margin-right: 10px;
+    color: #cccccc;
+    transition: color 0.3s;
+  }
+  
+  .footer-social-links a:hover {
+    color: var(--main-element-color);
+  }
+  
+  .container-footer h3 {
+    margin: 0 0 2% 0;
+    font-size: 2.2rem;
+    font-weight: 700;
+  }
+  
+  .container-footer p {
+    margin-bottom: 5%;
+    color: #cccccc;
+    font-size: 1.6rem;
+    font-weight: 400;
+  }
+  
+  .container-footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .container-footer ul li {
+    font-family: 'Space Mono', sans-serif;
+    padding: 2% 0;
+  }
+  
+  .container-footer ul li a {
+    text-decoration: none;
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: #cccccc;
+    transition: color 0.3s;
+  }
+  
+  .container-footer ul li a:hover {
+    color: var(--main-element-color);
+  }
+    
+  .footer-social-links {
+    display: flex;
+    gap: 10px;
+  }
+  
+  /* Media Queries for responsive design */
+  @media (max-width: 768px) {
+    .containers-footer {
+      flex-direction: column;
+    }
+  
+    .container-footer {
+      margin: 20px 0;
+    }
+     
+  }
+  
+  @media (max-width: 480px) {
+    .container-footer h3 {
+      font-size: 1.8rem;
+    }
+  
+    .container-footer p,
+    .container-footer ul li a,
+    .subscribe-form input,
+    .subscribe-form button {
+      font-size: 1.4rem;
+    }
+  }
+  

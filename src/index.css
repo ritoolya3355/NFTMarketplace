@@ -1,0 +1,37 @@
+:root {
+  --main-bg-color: #2B2B2B;
+  --main-element-color: #A259FF;
+}
+
+html {
+  font-size: 10px;
+   }
+  
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Work Sans', sans-serif;
+  background-color: var(--main-bg-color);
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+ /* Media Queries for responsive design */
+ @media (max-width: 768px) {
+  html {
+    font-size: 8px;
+  }
+ }
+ @media (max-width: 480px) {
+ html {
+    font-size: 6px;
+  }
+}

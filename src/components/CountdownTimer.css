@@ -1,0 +1,22 @@
+
+.timer-item {
+  display: flex;
+  flex-direction: column;
+ 
+}
+.timer-digits {
+  font-size: 3.8rem;
+  font-weight: 700;
+}
+
+.timer-item P {
+  font-size: 1.2rem;
+  font-weight: 400;
+ }
+
+.colon {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-size: 3.8rem;
+}

@@ -1,0 +1,22 @@
+.btn-getstarted {
+    background-color: var(--main-element-color);
+    border-radius: 20px;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.6rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+  }
+  
+  .btn-getstarted img {
+    margin-right: 10px;
+  }
+  
+  .btn-getstarted:hover {
+    background-color: #7815fa;
+    transition: all 0.4s;
+  }

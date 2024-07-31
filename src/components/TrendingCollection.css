@@ -1,0 +1,111 @@
+.trending-collection {
+  margin: 40px 0;
+  padding: 20px;
+}
+
+.trending-collection h2 {
+  padding: 1% 2%;
+  font-size: 3.8rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.trending-collection p {
+  padding: 1% 2%;
+  font-size: 2.2rem;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+.collection-container {
+  width: 100%;
+}
+
+.collection-card {
+  padding: 2%;
+  background-color: var(--main-bg-color);
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+  margin: 0 10px; 
+}
+
+.collection-card h3 {
+  font-size: 2.2rem;
+  padding: 10px;
+  margin: 0;
+}
+
+.collection-main-image img {
+  width: 100%;
+  height: auto;
+}
+
+.collection-preview {
+  width: 100%;
+  display: flex;
+  gap: 5px;
+  padding: 10px;
+}
+
+.preview-images {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.preview-images img {
+  display: block;
+  width: 30%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.more-images {
+  width: 30%;
+  height: auto;
+  background-color: var(--main-element-color);
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  cursor: pointer;
+}
+
+.more-images span {
+  font-family: 'Space Mono', sans-serif;
+  font-size: 2.2rem;
+  font-weight: 700;
+}
+
+.author-info {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.author-avatar {
+  width: 20%;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.author-info p {
+  font-size: 1.6rem;
+  font-weight: 400;
+  margin: 0;
+}
+
+.full-collection {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  border-radius: 10px;
+  z-index: 999;
+}
+
+.full-collection img {
+  display: block;
+  cursor: pointer;
+}
