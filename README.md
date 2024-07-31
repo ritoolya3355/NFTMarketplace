@@ -61,11 +61,11 @@ The **NFTPage** is the artist's works page, where a countdown timer is implement
 
 1. Клонуйте репозиторій:
     ```sh
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/ritoolya3355/NFTMarketplace
     ```
 2. Перейдіть у директорію проекту:
     ```sh
-    cd yourrepository
+    cd NFTMarketplace
     ```
 3. Встановіть залежності:
     ```sh
@@ -74,11 +74,11 @@ The **NFTPage** is the artist's works page, where a countdown timer is implement
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/ritoolya3355/NFTMarketplace
     ```
 2. Navigate to the project directory:
     ```sh
-    cd yourrepository
+    cd NFTMarketplace
     ```
 3. Install dependencies:
     ```sh
