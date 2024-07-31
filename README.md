@@ -17,9 +17,9 @@ ___MTF Marketplace___ має головну сторінку, на яку реа
 
 ___MTF Marketplace___ has a main page, which can be navigated to from any page by clicking on the _logo_. _Header_ and _footer_ components are present on all pages of the store.
 
-Header має меню і кнопку _login_, що дозволяє зайти у свій кабінет. Для прикладу служить сторінка _/artist_, де реалізовано функціонал завантаження нової роботи, через кнопку _upload new work_. Також можна вийти з кабінету - _logout_. Реалізовано запит до курсу криптовалют з використанням [CoinGecko API](https://api.coingecko.com/api/v3/simple/price).
+Header має меню і кнопку _login_, що дозволяє зайти у свій кабінет (email: test@example.com , Password: password123). Для прикладу служить сторінка _/artist_, де реалізовано функціонал завантаження нової роботи, через кнопку _upload new work_. Також можна вийти з кабінету - _logout_. Реалізовано запит до курсу криптовалют з використанням [CoinGecko API](https://api.coingecko.com/api/v3/simple/price).
 
-Header has a menu and a _login_ button that allows you to enter your account. For example, there is a _/artist_ page where the functionality for uploading a new work is implemented through the _upload new work_ button. You can also log out - _logout_. A request for cryptocurrency exchange rates is implemented using [CoinGecko API](https://api.coingecko.com/api/v3/simple/price).
+Header has a menu and a _login_ button that allows you to enter your account (email: test@example.com , Password: password123). For example, there is a _/artist_ page where the functionality for uploading a new work is implemented through the _upload new work_ button. You can also log out - _logout_. A request for cryptocurrency exchange rates is implemented using [CoinGecko API](https://api.coingecko.com/api/v3/simple/price).
 
 Footer має спільну основу з header - лого і меню, але доповнений лінками до соціальних мереж та формою підписки на розсилку.
 

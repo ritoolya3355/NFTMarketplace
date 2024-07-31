@@ -16,7 +16,7 @@ const Footer = () => {
         {/* Логотип і опис */}
         <div className="container-footer">
           <Link to="/">
-            <img src="/src/images/logo.svg" alt="logo" />
+            <img src="/images/logo.svg" alt="logo" />
           </Link>
           <p>NFT marketplace UI created with Anima for Figma.</p>
           <p>Join our community</p>
@@ -28,7 +28,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               aria-label="Visit our website"
             >
-              <img src="/src/images/link-web.svg" alt="web" />
+              <img src="/images/link-web.svg" alt="web" />
             </a>
             <a
               href="https://example.com/community/youtube"
@@ -36,7 +36,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               aria-label="Visit our YouTube channel"
             >
-              <img src="/src/images/link-youtube.svg" alt="youtube" />
+              <img src="/images/link-youtube.svg" alt="youtube" />
             </a>
             <a
               href="https://example.com/community/twitter"
@@ -44,7 +44,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               aria-label="Visit our Twitter profile"
             >
-              <img src="/src/images/link-twitter.svg" alt="twitter" />
+              <img src="/images/link-twitter.svg" alt="twitter" />
             </a>
             <a
               href="https://example.com/community/instagram"
@@ -52,7 +52,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               aria-label="Visit our Instagram profile"
             >
-              <img src="/src/images/link-instagram.svg" alt="instagram" />
+              <img src="/images/link-instagram.svg" alt="instagram" />
             </a>
           </div>
         </div>

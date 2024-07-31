@@ -121,28 +121,28 @@ const ArtistPage = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <img src="./src/images/link-web.svg" alt="web" />
+                <img src="/images/link-web.svg" alt="web" />
               </a>
               <a
                 href={socialLinks.youtube}
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <img src="./src/images/link-youtube.svg" alt="youtube" />
+                <img src="/images/link-youtube.svg" alt="youtube" />
               </a>
               <a
                 href={socialLinks.twitter}
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <img src="./src/images/link-twitter.svg" alt="twitter" />
+                <img src="/images/link-twitter.svg" alt="twitter" />
               </a>
               <a
                 href={socialLinks.instagram}
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <img src="./src/images/link-instagram.svg" alt="instagram" />
+                <img src="/images/link-instagram.svg" alt="instagram" />
               </a>
             </div>
           </div>

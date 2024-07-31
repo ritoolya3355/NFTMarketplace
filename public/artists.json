@@ -3,62 +3,62 @@
     {
       "id": 1,
       "name": "Jaydon Bothman",
-      "avatar": "/src/images/avatars_artists/Jaydon.svg",
+      "avatar": "/images/avatars_artists/Jaydon.svg",
       "rankChange": 5.1,
       "nftsSold": 150,
       "totalSales": 20000,
       "biography": "Jaydon Bothman is a digital artist known for his vibrant and intricate designs. His work often explores the intersection of technology and nature.",
       "works": [
         {
-          "image": "/src/images/work1.png",
+          "image": "/images/work1.png",
           "title": "Nature's Embrace",
           "priceETH": 3.5,
           "highestBidWETH": 2.8
         },
         {
-          "image": "/src/images/work2.png",
+          "image": "/images/work2.png",
           "title": "Tech Bloom",
           "priceETH": 4.0,
           "highestBidWETH": 3.5
         },
         {
-          "image": "/src/images/work3.png",
+          "image": "/images/work3.png",
           "title": "Digital Forest",
           "priceETH": 5.0,
           "highestBidWETH": 4.7
         },
         {
-          "image": "/src/images/work4.png",
+          "image": "/images/work4.png",
           "title": "Synthetic Landscape",
           "priceETH": 2.5,
           "highestBidWETH": 2.0
         },
         {
-          "image": "/src/images/work5.png",
+          "image": "/images/work5.png",
           "title": "Virtual Garden",
           "priceETH": 3.8,
           "highestBidWETH": 3.2
         },
         {
-          "image": "/src/images/work6.png",
+          "image": "/images/work6.png",
           "title": "Tech Flora",
           "priceETH": 4.5,
           "highestBidWETH": 4.0
         },
         {
-          "image": "/src/images/work7.png",
+          "image": "/images/work7.png",
           "title": "Digital Oasis",
           "priceETH": 3.2,
           "highestBidWETH": 2.9
         },
         {
-          "image": "/src/images/work8.png",
+          "image": "/images/work8.png",
           "title": "Virtual Horizon",
           "priceETH": 4.8,
           "highestBidWETH": 4.2
         },
         {
-          "image": "/src/images/work9.png",
+          "image": "/images/work9.png",
           "title": "Synthetic Wilderness",
           "priceETH": 5.5,
           "highestBidWETH": 5.0
@@ -69,62 +69,62 @@
     {
       "id": 2,
       "name": "Ruben Carder",
-      "avatar": "/src/images/avatars_artists/Ruben.svg",
+      "avatar": "/images/avatars_artists/Ruben.svg",
       "rankChange": -2.3,
       "nftsSold": 120,
       "totalSales": 15000,
       "biography": "Ruben Carder is a digital artist known for his vibrant and intricate designs. His work often explores the intersection of technology and nature.",
       "works": [
         {
-          "image": "/src/images/work11.png",
+          "image": "/images/work11.png",
           "title": "Moonlit Tech",
           "priceETH": 2.5,
           "highestBidWETH": 2.2
         },
         {
-          "image": "/src/images/work12.png",
+          "image": "/images/work12.png",
           "title": "Digital Waves",
           "priceETH": 3.0,
           "highestBidWETH": 2.5
         },
         {
-          "image": "/src/images/work13.png",
+          "image": "/images/work13.png",
           "title": "Cyber Bloom",
           "priceETH": 3.5,
           "highestBidWETH": 3.0
         },
         {
-          "image": "/src/images/work14.png",
+          "image": "/images/work14.png",
           "title": "Tech Illumination",
           "priceETH": 4.0,
           "highestBidWETH": 3.7
         },
         {
-          "image": "/src/images/work15.png",
+          "image": "/images/work15.png",
           "title": "Synthetic Moon",
           "priceETH": 2.8,
           "highestBidWETH": 2.5
         },
         {
-          "image": "/src/images/work16.png",
+          "image": "/images/work16.png",
           "title": "Virtual Tide",
           "priceETH": 3.2,
           "highestBidWETH": 2.8
         },
         {
-          "image": "/src/images/work17.png",
+          "image": "/images/work17.png",
           "title": "Tech Glow",
           "priceETH": 4.5,
           "highestBidWETH": 4.0
         },
         {
-          "image": "/src/images/work18.png",
+          "image": "/images/work18.png",
           "title": "Digital Shimmer",
           "priceETH": 3.8,
           "highestBidWETH": 3.4
         },
         {
-          "image": "/src/images/work10.png",
+          "image": "/images/work10.png",
           "title": "Cyber Radiance",
           "priceETH": 5.0,
           "highestBidWETH": 4.5
@@ -135,62 +135,62 @@
     {
       "id": 3,
       "name": "Alfredo Septimus",
-      "avatar": "/src/images/avatars_artists/Alfredo.svg",
+      "avatar": "/images/avatars_artists/Alfredo.svg",
       "rankChange": 4.5,
       "nftsSold": 100,
       "totalSales": 10000,
       "biography": "Alfredo Septimus is a digital artist known for his vibrant and intricate designs. His work often explores the intersection of technology and nature.",
       "works": [
         {
-          "image": "/src/images/work1.png",
+          "image": "/images/work1.png",
           "title": "Ethereal Tech",
           "priceETH": 3.0,
           "highestBidWETH": 2.7
         },
         {
-          "image": "/src/images/work2.png",
+          "image": "/images/work2.png",
           "title": "Virtual Meadow",
           "priceETH": 3.5,
           "highestBidWETH": 3.0
         },
         {
-          "image": "/src/images/work3.png",
+          "image": "/images/work3.png",
           "title": "Synthetic Garden",
           "priceETH": 4.0,
           "highestBidWETH": 3.5
         },
         {
-          "image": "/src/images/work4.png",
+          "image": "/images/work4.png",
           "title": "Tech Flora",
           "priceETH": 2.8,
           "highestBidWETH": 2.4
         },
         {
-          "image": "/src/images/work5.png",
+          "image": "/images/work5.png",
           "title": "Digital Breeze",
           "priceETH": 3.2,
           "highestBidWETH": 2.9
         },
         {
-          "image": "/src/images/work6.png",
+          "image": "/images/work6.png",
           "title": "Cyber Scape",
           "priceETH": 3.8,
           "highestBidWETH": 3.2
         },
         {
-          "image": "/src/images/work7.png",
+          "image": "/images/work7.png",
           "title": "Virtual Dawn",
           "priceETH": 4.2,
           "highestBidWETH": 3.7
         },
         {
-          "image": "/src/images/work8.png",
+          "image": "/images/work8.png",
           "title": "Synthetic Twilight",
           "priceETH": 3.7,
           "highestBidWETH": 3.3
         },
         {
-          "image": "/src/images/work9.png",
+          "image": "/images/work9.png",
           "title": "Tech Horizon",
           "priceETH": 4.5,
           "highestBidWETH": 4.0
@@ -201,62 +201,62 @@
     {
       "id": 4,
       "name": "Davis Franci",
-      "avatar": "/src/images/avatars_artists/Davis.svg",
+      "avatar": "/images/avatars_artists/Davis.svg",
       "rankChange": -3.2,
       "nftsSold": 210,
       "totalSales": 5000,
       "biography": "Davis Franci is a digital artist known for his vibrant and intricate designs. His work often explores the intersection of technology and nature.",
       "works": [
         {
-          "image": "/src/images/work1.png",
+          "image": "/images/work1.png",
           "title": "Ethereal Tech",
           "priceETH": 3.0,
           "highestBidWETH": 2.7
         },
         {
-          "image": "/src/images/work12.png",
+          "image": "/images/work12.png",
           "title": "Virtual Meadow",
           "priceETH": 3.5,
           "highestBidWETH": 3.0
         },
         {
-          "image": "/src/images/work13.png",
+          "image": "/images/work13.png",
           "title": "Synthetic Garden",
           "priceETH": 4.0,
           "highestBidWETH": 3.5
         },
         {
-          "image": "/src/images/work14.png",
+          "image": "/images/work14.png",
           "title": "Tech Flora",
           "priceETH": 2.8,
           "highestBidWETH": 2.4
         },
         {
-          "image": "/src/images/work15.png",
+          "image": "/images/work15.png",
           "title": "Digital Breeze",
           "priceETH": 3.2,
           "highestBidWETH": 2.9
         },
         {
-          "image": "/src/images/work16.png",
+          "image": "/images/work16.png",
           "title": "Cyber Scape",
           "priceETH": 3.8,
           "highestBidWETH": 3.2
         },
         {
-          "image": "/src/images/work17.png",
+          "image": "/images/work17.png",
           "title": "Virtual Dawn",
           "priceETH": 4.2,
           "highestBidWETH": 3.7
         },
         {
-          "image": "/src/images/work18.png",
+          "image": "/images/work18.png",
           "title": "Synthetic Twilight",
           "priceETH": 3.7,
           "highestBidWETH": 3.3
         },
         {
-          "image": "/src/images/work10.png",
+          "image": "/images/work10.png",
           "title": "Tech Horizon",
           "priceETH": 4.5,
           "highestBidWETH": 4.0
@@ -267,62 +267,62 @@
     {
       "id": 5,
       "name": "Livia Rosser",
-      "avatar": "/src/images/avatars_artists/Livia.svg",
+      "avatar": "/images/avatars_artists/Livia.svg",
       "rankChange": -0.2,
       "nftsSold": 202,
       "totalSales": 12500,
       "biography": "Livia Rosser is a digital artist known for his vibrant and intricate designs. His work often explores the intersection of technology and nature.",
      "works": [
         {
-          "image": "/src/images/work1.png",
+          "image": "/images/work1.png",
           "title": "Ethereal Tech",
           "priceETH": 3.0,
           "highestBidWETH": 2.7
         },
         {
-          "image": "/src/images/work2.png",
+          "image": "/images/work2.png",
           "title": "Virtual Meadow",
           "priceETH": 3.5,
           "highestBidWETH": 3.0
         },
         {
-          "image": "/src/images/work3.png",
+          "image": "/images/work3.png",
           "title": "Synthetic Garden",
           "priceETH": 4.0,
           "highestBidWETH": 3.5
         },
         {
-          "image": "/src/images/work4.png",
+          "image": "/images/work4.png",
           "title": "Tech Flora",
           "priceETH": 2.8,
           "highestBidWETH": 2.4
         },
         {
-          "image": "/src/images/work5.png",
+          "image": "/images/work5.png",
           "title": "Digital Breeze",
           "priceETH": 3.2,
           "highestBidWETH": 2.9
         },
         {
-          "image": "/src/images/work6.png",
+          "image": "/images/work6.png",
           "title": "Cyber Scape",
           "priceETH": 3.8,
           "highestBidWETH": 3.2
         },
         {
-          "image": "/src/images/work7.png",
+          "image": "/images/work7.png",
           "title": "Virtual Dawn",
           "priceETH": 4.2,
           "highestBidWETH": 3.7
         },
         {
-          "image": "/src/images/work8.png",
+          "image": "/images/work8.png",
           "title": "Synthetic Twilight",
           "priceETH": 3.7,
           "highestBidWETH": 3.3
         },
         {
-          "image": "/src/images/work9.png",
+          "image": "/images/work9.png",
           "title": "Tech Horizon",
           "priceETH": 4.5,
           "highestBidWETH": 4.0
@@ -333,62 +333,62 @@
     {
       "id": 6,
       "name": "Kianna Donin",
-      "avatar": "/src/images/avatars_artists/Kianna.svg",
+      "avatar": "/images/avatars_artists/Kianna.svg",
       "rankChange": 2.4,
       "nftsSold": 120,
       "totalSales": 10060,
       "biography": "Kianna Donin is a digital artist known for his vibrant and intricate designs. His work often explores the intersection of technology and nature.",
       "works": [
         {
-          "image": "/src/images/work10.png",
+          "image": "/images/work10.png",
           "title": "Ethereal Tech",
           "priceETH": 3.0,
           "highestBidWETH": 2.7
         },
         {
-          "image": "/src/images/work12.png",
+          "image": "/images/work12.png",
           "title": "Virtual Meadow",
           "priceETH": 3.5,
           "highestBidWETH": 3.0
         },
         {
-          "image": "/src/images/work13.png",
+          "image": "/images/work13.png",
           "title": "Synthetic Garden",
           "priceETH": 4.0,
           "highestBidWETH": 3.5
         },
         {
-          "image": "/src/images/work14.png",
+          "image": "/images/work14.png",
           "title": "Tech Flora",
           "priceETH": 2.8,
           "highestBidWETH": 2.4
         },
         {
-          "image": "/src/images/work15.png",
+          "image": "/images/work15.png",
           "title": "Digital Breeze",
           "priceETH": 3.2,
           "highestBidWETH": 2.9
         },
         {
-          "image": "/src/images/work16.png",
+          "image": "/images/work16.png",
           "title": "Cyber Scape",
           "priceETH": 3.8,
           "highestBidWETH": 3.2
         },
         {
-          "image": "/src/images/work17.png",
+          "image": "/images/work17.png",
           "title": "Virtual Dawn",
           "priceETH": 4.2,
           "highestBidWETH": 3.7
         },
         {
-          "image": "/src/images/work18.png",
+          "image": "/images/work18.png",
           "title": "Synthetic Twilight",
           "priceETH": 3.7,
           "highestBidWETH": 3.3
         },
         {
-          "image": "/src/images/work11.png",
+          "image": "/images/work11.png",
           "title": "Tech Horizon",
           "priceETH": 4.5,
           "highestBidWETH": 4.0
@@ -399,62 +399,62 @@
     {
       "id": 7,
       "name": "Phillip Lipshutz",
-      "avatar": "/src/images/avatars_artists/Phillip.svg",
+      "avatar": "/images/avatars_artists/Phillip.svg",
       "rankChange": 2.0,
       "nftsSold": 111,
       "totalSales": 11050,
       "biography": "Phillip Lipshutz is a digital artist known for his vibrant and intricate designs. His work often explores the intersection of technology and nature.",
        "works": [
         {
-          "image": "/src/images/work1.png",
+          "image": "/images/work1.png",
           "title": "Ethereal Tech",
           "priceETH": 3.0,
           "highestBidWETH": 2.7
         },
         {
-          "image": "/src/images/work2.png",
+          "image": "/images/work2.png",
           "title": "Virtual Meadow",
           "priceETH": 3.5,
           "highestBidWETH": 3.0
         },
         {
-          "image": "/src/images/work3.png",
+          "image": "/images/work3.png",
           "title": "Synthetic Garden",
           "priceETH": 4.0,
           "highestBidWETH": 3.5
         },
         {
-          "image": "/src/images/work4.png",
+          "image": "/images/work4.png",
           "title": "Tech Flora",
           "priceETH": 2.8,
           "highestBidWETH": 2.4
         },
         {
-          "image": "/src/images/work5.png",
+          "image": "/images/work5.png",
           "title": "Digital Breeze",
           "priceETH": 3.2,
           "highestBidWETH": 2.9
         },
         {
-          "image": "/src/images/work6.png",
+          "image": "/images/work6.png",
           "title": "Cyber Scape",
           "priceETH": 3.8,
           "highestBidWETH": 3.2
         },
         {
-          "image": "/src/images/work7.png",
+          "image": "/images/work7.png",
           "title": "Virtual Dawn",
           "priceETH": 4.2,
           "highestBidWETH": 3.7
         },
         {
-          "image": "/src/images/work8.png",
+          "image": "/images/work8.png",
           "title": "Synthetic Twilight",
           "priceETH": 3.7,
           "highestBidWETH": 3.3
         },
         {
-          "image": "/src/images/work9.png",
+          "image": "/images/work9.png",
           "title": "Tech Horizon",
           "priceETH": 4.5,
           "highestBidWETH": 4.0
@@ -465,62 +465,62 @@
     {
       "id": 8,
       "name": "Maria Rosser",
-      "avatar": "/src/images/avatars_artists/Maria.svg",
+      "avatar": "/images/avatars_artists/Maria.svg",
       "rankChange": -0.5,
       "nftsSold": 400,
       "totalSales": 10300,
       "biography": "Maria Rosser is a digital artist known for his vibrant and intricate designs. His work often explores the intersection of technology and nature.",
        "works": [
         {
-          "image": "/src/images/work1.png",
+          "image": "/images/work1.png",
           "title": "Ethereal Tech",
           "priceETH": 3.0,
           "highestBidWETH": 2.7
         },
         {
-          "image": "/src/images/work12.png",
+          "image": "/images/work12.png",
           "title": "Virtual Meadow",
           "priceETH": 3.5,
           "highestBidWETH": 3.0
         },
         {
-          "image": "/src/images/work3.png",
+          "image": "/images/work3.png",
           "title": "Synthetic Garden",
           "priceETH": 4.0,
           "highestBidWETH": 3.5
         },
         {
-          "image": "/src/images/work4.png",
+          "image": "/images/work4.png",
           "title": "Tech Flora",
           "priceETH": 2.8,
           "highestBidWETH": 2.4
         },
         {
-          "image": "/src/images/work5.png",
+          "image": "/images/work5.png",
           "title": "Digital Breeze",
           "priceETH": 3.2,
           "highestBidWETH": 2.9
         },
         {
-          "image": "/src/images/work16.png",
+          "image": "/images/work16.png",
           "title": "Cyber Scape",
           "priceETH": 3.8,
           "highestBidWETH": 3.2
         },
         {
-          "image": "/src/images/work7.png",
+          "image": "/images/work7.png",
           "title": "Virtual Dawn",
           "priceETH": 4.2,
           "highestBidWETH": 3.7
         },
         {
-          "image": "/src/images/work18.png",
+          "image": "/images/work18.png",
           "title": "Synthetic Twilight",
           "priceETH": 3.7,
           "highestBidWETH": 3.3
         },
         {
-          "image": "/src/images/work9.png",
+          "image": "/images/work9.png",
           "title": "Tech Horizon",
           "priceETH": 4.5,
           "highestBidWETH": 4.0
@@ -531,62 +531,62 @@
     {
       "id": 9,
       "name": "Kianna Stanton",
-      "avatar": "/src/images/avatars_artists/Kianna_S.svg",
+      "avatar": "/images/avatars_artists/Kianna_S.svg",
       "rankChange": 7.5,
       "nftsSold": 720,
       "totalSales": 7000,
       "biography": "Kianna Stanton is a digital artist known for his vibrant and intricate designs. His work often explores the intersection of technology and nature.",
        "works": [
         {
-          "image": "/src/images/work1.png",
+          "image": "/images/work1.png",
           "title": "Ethereal Tech",
           "priceETH": 3.0,
           "highestBidWETH": 2.7
         },
         {
-          "image": "/src/images/work12.png",
+          "image": "/images/work12.png",
           "title": "Virtual Meadow",
           "priceETH": 3.5,
           "highestBidWETH": 3.0
         },
         {
-          "image": "/src/images/work3.png",
+          "image": "/images/work3.png",
           "title": "Synthetic Garden",
           "priceETH": 4.0,
           "highestBidWETH": 3.5
         },
         {
-          "image": "/src/images/work14.png",
+          "image": "/images/work14.png",
           "title": "Tech Flora",
           "priceETH": 2.8,
           "highestBidWETH": 2.4
         },
         {
-          "image": "/src/images/work5.png",
+          "image": "/images/work5.png",
           "title": "Digital Breeze",
           "priceETH": 3.2,
           "highestBidWETH": 2.9
         },
         {
-          "image": "/src/images/work6.png",
+          "image": "/images/work6.png",
           "title": "Cyber Scape",
           "priceETH": 3.8,
           "highestBidWETH": 3.2
         },
         {
-          "image": "/src/images/work11.png",
+          "image": "/images/work11.png",
           "title": "Virtual Dawn",
           "priceETH": 4.2,
           "highestBidWETH": 3.7
         },
         {
-          "image": "/src/images/work8.png",
+          "image": "/images/work8.png",
           "title": "Synthetic Twilight",
           "priceETH": 3.7,
           "highestBidWETH": 3.3
         },
         {
-          "image": "/src/images/work10.png",
+          "image": "/images/work10.png",
           "title": "Tech Horizon",
           "priceETH": 4.5,
           "highestBidWETH": 4.0
@@ -597,62 +597,62 @@
     {
       "id": 10,
       "name": "Angel Lubin",
-      "avatar": "/src/images/avatars_artists/Angel.svg",
+      "avatar": "/images/avatars_artists/Angel.svg",
       "rankChange": -8.9,
       "nftsSold": 20,
       "totalSales": 9030,
       "biography": "Angel Lubin is a digital artist known for his vibrant and intricate designs. His work often explores the intersection of technology and nature.",
        "works": [
         {
-          "image": "/src/images/work1.png",
+          "image": "/images/work1.png",
           "title": "Ethereal Tech",
           "priceETH": 3.0,
           "highestBidWETH": 2.7
         },
         {
-          "image": "/src/images/work2.png",
+          "image": "/images/work2.png",
           "title": "Virtual Meadow",
           "priceETH": 3.5,
           "highestBidWETH": 3.0
         },
         {
-          "image": "/src/images/work3.png",
+          "image": "/images/work3.png",
           "title": "Synthetic Garden",
           "priceETH": 4.0,
           "highestBidWETH": 3.5
         },
         {
-          "image": "/src/images/work4.png",
+          "image": "/images/work4.png",
           "title": "Tech Flora",
           "priceETH": 2.8,
           "highestBidWETH": 2.4
         },
         {
-          "image": "/src/images/work5.png",
+          "image": "/images/work5.png",
           "title": "Digital Breeze",
           "priceETH": 3.2,
           "highestBidWETH": 2.9
         },
         {
-          "image": "/src/images/work6.png",
+          "image": "/images/work6.png",
           "title": "Cyber Scape",
           "priceETH": 3.8,
           "highestBidWETH": 3.2
         },
         {
-          "image": "/src/images/work7.png",
+          "image": "/images/work7.png",
           "title": "Virtual Dawn",
           "priceETH": 4.2,
           "highestBidWETH": 3.7
         },
         {
-          "image": "/src/images/work8.png",
+          "image": "/images/work8.png",
           "title": "Synthetic Twilight",
           "priceETH": 3.7,
           "highestBidWETH": 3.3
         },
         {
-          "image": "/src/images/work9.png",
+          "image": "/images/work9.png",
           "title": "Tech Horizon",
           "priceETH": 4.5,
           "highestBidWETH": 4.0
@@ -663,62 +663,62 @@
     {
       "id": 11,
       "name": "Allison Torff",
-      "avatar": "/src/images/avatars_artists/Allison.svg",
+      "avatar": "/images/avatars_artists/Allison.svg",
       "rankChange": 8.9,
       "nftsSold": 999,
       "totalSales": 6800,
       "biography": "Allison Torff is a digital artist known for his vibrant and intricate designs. His work often explores the intersection of technology and nature.",
        "works": [
         {
-          "image": "/src/images/work1.png",
+          "image": "/images/work1.png",
           "title": "Ethereal Tech",
           "priceETH": 3.0,
           "highestBidWETH": 2.7
         },
         {
-          "image": "/src/images/work2.png",
+          "image": "/images/work2.png",
           "title": "Virtual Meadow",
           "priceETH": 3.5,
           "highestBidWETH": 3.0
         },
         {
-          "image": "/src/images/work3.png",
+          "image": "/images/work3.png",
           "title": "Synthetic Garden",
           "priceETH": 4.0,
           "highestBidWETH": 3.5
         },
         {
-          "image": "/src/images/work4.png",
+          "image": "/images/work4.png",
           "title": "Tech Flora",
           "priceETH": 2.8,
           "highestBidWETH": 2.4
         },
         {
-          "image": "/src/images/work5.png",
+          "image": "/images/work5.png",
           "title": "Digital Breeze",
           "priceETH": 3.2,
           "highestBidWETH": 2.9
         },
         {
-          "image": "/src/images/work6.png",
+          "image": "/images/work6.png",
           "title": "Cyber Scape",
           "priceETH": 3.8,
           "highestBidWETH": 3.2
         },
         {
-          "image": "/src/images/work7.png",
+          "image": "/images/work7.png",
           "title": "Virtual Dawn",
           "priceETH": 4.2,
           "highestBidWETH": 3.7
         },
         {
-          "image": "/src/images/work8.png",
+          "image": "/images/work8.png",
           "title": "Synthetic Twilight",
           "priceETH": 3.7,
           "highestBidWETH": 3.3
         },
         {
-          "image": "/src/images/work9.png",
+          "image": "/images/work9.png",
           "title": "Tech Horizon",
           "priceETH": 4.5,
           "highestBidWETH": 4.0
@@ -729,62 +729,62 @@
     {
       "id": 12,
       "name": "Davis Workman",
-      "avatar": "/src/images/avatars_artists/Davis_W.svg",
+      "avatar": "/images/avatars_artists/Davis_W.svg",
       "rankChange": 20.0,
       "nftsSold": 1020,
       "totalSales": 3500,
       "biography": "Davis Workman is a digital artist known for his vibrant and intricate designs. His work often explores the intersection of technology and nature.",
        "works": [
         {
-          "image": "/src/images/work1.png",
+          "image": "/images/work1.png",
           "title": "Ethereal Tech",
           "priceETH": 3.0,
           "highestBidWETH": 2.7
         },
         {
-          "image": "/src/images/work2.png",
+          "image": "/images/work2.png",
           "title": "Virtual Meadow",
           "priceETH": 3.5,
           "highestBidWETH": 3.0
         },
         {
-          "image": "/src/images/work3.png",
+          "image": "/images/work3.png",
           "title": "Synthetic Garden",
           "priceETH": 4.0,
           "highestBidWETH": 3.5
         },
         {
-          "image": "/src/images/work4.png",
+          "image": "/images/work4.png",
           "title": "Tech Flora",
           "priceETH": 2.8,
           "highestBidWETH": 2.4
         },
         {
-          "image": "/src/images/work5.png",
+          "image": "/images/work5.png",
           "title": "Digital Breeze",
           "priceETH": 3.2,
           "highestBidWETH": 2.9
         },
         {
-          "image": "/src/images/work6.png",
+          "image": "/images/work6.png",
           "title": "Cyber Scape",
           "priceETH": 3.8,
           "highestBidWETH": 3.2
         },
         {
-          "image": "/src/images/work7.png",
+          "image": "/images/work7.png",
           "title": "Virtual Dawn",
           "priceETH": 4.2,
           "highestBidWETH": 3.7
         },
         {
-          "image": "/src/images/work8.png",
+          "image": "/images/work8.png",
           "title": "Synthetic Twilight",
           "priceETH": 3.7,
           "highestBidWETH": 3.3
         },
         {
-          "image": "/src/images/work9.png",
+          "image": "/images/work9.png",
           "title": "Tech Horizon",
           "priceETH": 4.5,
           "highestBidWETH": 4.0
@@ -795,62 +795,62 @@
     {
       "id": 13,
       "name": "Lindsey Lipshutz",
-      "avatar": "/src/images/avatars_artists/Lindsey.svg",
+      "avatar": "/images/avatars_artists/Lindsey.svg",
       "rankChange": -8.2,
       "nftsSold": 65,
       "totalSales": 1900,
       "biography": "Lindsey Lipshutz is a digital artist known for his vibrant and intricate designs. His work often explores the intersection of technology and nature.",
        "works": [
         {
-          "image": "/src/images/work1.png",
+          "image": "/images/work1.png",
           "title": "Ethereal Tech",
           "priceETH": 3.0,
           "highestBidWETH": 2.7
         },
         {
-          "image": "/src/images/work2.png",
+          "image": "/images/work2.png",
           "title": "Virtual Meadow",
           "priceETH": 3.5,
           "highestBidWETH": 3.0
         },
         {
-          "image": "/src/images/work3.png",
+          "image": "/images/work3.png",
           "title": "Synthetic Garden",
           "priceETH": 4.0,
           "highestBidWETH": 3.5
         },
         {
-          "image": "/src/images/work4.png",
+          "image": "/images/work4.png",
           "title": "Tech Flora",
           "priceETH": 2.8,
           "highestBidWETH": 2.4
         },
         {
-          "image": "/src/images/work5.png",
+          "image": "/images/work5.png",
           "title": "Digital Breeze",
           "priceETH": 3.2,
           "highestBidWETH": 2.9
         },
         {
-          "image": "/src/images/work6.png",
+          "image": "/images/work6.png",
           "title": "Cyber Scape",
           "priceETH": 3.8,
           "highestBidWETH": 3.2
         },
         {
-          "image": "/src/images/work7.png",
+          "image": "/images/work7.png",
           "title": "Virtual Dawn",
           "priceETH": 4.2,
           "highestBidWETH": 3.7
         },
         {
-          "image": "/src/images/work8.png",
+          "image": "/images/work8.png",
           "title": "Synthetic Twilight",
           "priceETH": 3.7,
           "highestBidWETH": 3.3
         },
         {
-          "image": "/src/images/work9.png",
+          "image": "/images/work9.png",
           "title": "Tech Horizon",
           "priceETH": 4.5,
           "highestBidWETH": 4.0
@@ -861,62 +861,62 @@
     {
       "id": 14,
       "name": "Randy Carder",
-      "avatar": "/src/images/avatars_artists/Randy.svg",
+      "avatar": "/images/avatars_artists/Randy.svg",
       "rankChange": 20,
       "nftsSold": 920,
       "totalSales": 4820,
       "biography": "Randy Carder is a digital artist known for his vibrant and intricate designs. His work often explores the intersection of technology and nature.",
        "works": [
         {
-          "image": "/src/images/work1.png",
+          "image": "/images/work1.png",
           "title": "Ethereal Tech",
           "priceETH": 3.0,
           "highestBidWETH": 2.7
         },
         {
-          "image": "/src/images/work2.png",
+          "image": "/images/work2.png",
           "title": "Virtual Meadow",
           "priceETH": 3.5,
           "highestBidWETH": 3.0
         },
         {
-          "image": "/src/images/work3.png",
+          "image": "/images/work3.png",
           "title": "Synthetic Garden",
           "priceETH": 4.0,
           "highestBidWETH": 3.5
         },
         {
-          "image": "/src/images/work4.png",
+          "image": "/images/work4.png",
           "title": "Tech Flora",
           "priceETH": 2.8,
           "highestBidWETH": 2.4
         },
         {
-          "image": "/src/images/work5.png",
+          "image": "/images/work5.png",
           "title": "Digital Breeze",
           "priceETH": 3.2,
           "highestBidWETH": 2.9
         },
         {
-          "image": "/src/images/work6.png",
+          "image": "/images/work6.png",
           "title": "Cyber Scape",
           "priceETH": 3.8,
           "highestBidWETH": 3.2
         },
         {
-          "image": "/src/images/work7.png",
+          "image": "/images/work7.png",
           "title": "Virtual Dawn",
           "priceETH": 4.2,
           "highestBidWETH": 3.7
         },
         {
-          "image": "/src/images/work8.png",
+          "image": "/images/work8.png",
           "title": "Synthetic Twilight",
           "priceETH": 3.7,
           "highestBidWETH": 3.3
         },
         {
-          "image": "/src/images/work9.png",
+          "image": "/images/work9.png",
           "title": "Tech Horizon",
           "priceETH": 4.5,
           "highestBidWETH": 4.0
@@ -927,62 +927,62 @@
     {
       "id": 15,
       "name": "Lydia Culhane",
-      "avatar": "/src/images/avatars_artists/Lydia.svg",
+      "avatar": "/images/avatars_artists/Lydia.svg",
       "rankChange": -10.5,
       "nftsSold": 28,
       "totalSales": 5400,
       "biography": "Lydia Culhane is a digital artist known for his vibrant and intricate designs. His work often explores the intersection of technology and nature.",
        "works": [
         {
-          "image": "/src/images/work1.png",
+          "image": "/images/work1.png",
           "title": "Ethereal Tech",
           "priceETH": 3.0,
           "highestBidWETH": 2.7
         },
         {
-          "image": "/src/images/work2.png",
+          "image": "/images/work2.png",
           "title": "Virtual Meadow",
           "priceETH": 3.5,
           "highestBidWETH": 3.0
         },
         {
-          "image": "/src/images/work3.png",
+          "image": "/images/work3.png",
           "title": "Synthetic Garden",
           "priceETH": 4.0,
           "highestBidWETH": 3.5
         },
         {
-          "image": "/src/images/work4.png",
+          "image": "/images/work4.png",
           "title": "Tech Flora",
           "priceETH": 2.8,
           "highestBidWETH": 2.4
         },
         {
-          "image": "/src/images/work5.png",
+          "image": "/images/work5.png",
           "title": "Digital Breeze",
           "priceETH": 3.2,
           "highestBidWETH": 2.9
         },
         {
-          "image": "/src/images/work6.png",
+          "image": "/images/work6.png",
           "title": "Cyber Scape",
           "priceETH": 3.8,
           "highestBidWETH": 3.2
         },
         {
-          "image": "/src/images/work7.png",
+          "image": "/images/work7.png",
           "title": "Virtual Dawn",
           "priceETH": 4.2,
           "highestBidWETH": 3.7
         },
         {
-          "image": "/src/images/work8.png",
+          "image": "/images/work8.png",
           "title": "Synthetic Twilight",
           "priceETH": 3.7,
           "highestBidWETH": 3.3
         },
         {
-          "image": "/src/images/work9.png",
+          "image": "/images/work9.png",
           "title": "Tech Horizon",
           "priceETH": 4.5,
           "highestBidWETH": 4.0
@@ -993,62 +993,62 @@
     {
       "id": 16,
       "name": "Rayna Bator",
-      "avatar": "/src/images/avatars_artists/Rayna.svg",
+      "avatar": "/images/avatars_artists/Rayna.svg",
       "rankChange": -18.0,
       "nftsSold": 2,
       "totalSales": 1000,
       "biography": "Rayna Bator is a digital artist known for his vibrant and intricate designs. His work often explores the intersection of technology and nature.",
        "works": [
         {
-          "image": "/src/images/work1.png",
+          "image": "/images/work1.png",
           "title": "Ethereal Tech",
           "priceETH": 3.0,
           "highestBidWETH": 2.7
         },
         {
-          "image": "/src/images/work12.png",
+          "image": "/images/work12.png",
           "title": "Virtual Meadow",
           "priceETH": 3.5,
           "highestBidWETH": 3.0
         },
         {
-          "image": "/src/images/work13.png",
+          "image": "/images/work13.png",
           "title": "Synthetic Garden",
           "priceETH": 4.0,
           "highestBidWETH": 3.5
         },
         {
-          "image": "/src/images/work14.png",
+          "image": "/images/work14.png",
           "title": "Tech Flora",
           "priceETH": 2.8,
           "highestBidWETH": 2.4
         },
         {
-          "image": "/src/images/work15.png",
+          "image": "/images/work15.png",
           "title": "Digital Breeze",
           "priceETH": 3.2,
           "highestBidWETH": 2.9
         },
         {
-          "image": "/src/images/work16.png",
+          "image": "/images/work16.png",
           "title": "Cyber Scape",
           "priceETH": 3.8,
           "highestBidWETH": 3.2
         },
         {
-          "image": "/src/images/work17.png",
+          "image": "/images/work17.png",
           "title": "Virtual Dawn",
           "priceETH": 4.2,
           "highestBidWETH": 3.7
         },
         {
-          "image": "/src/images/work18.png",
+          "image": "/images/work18.png",
           "title": "Synthetic Twilight",
           "priceETH": 3.7,
           "highestBidWETH": 3.3
         },
         {
-          "image": "/src/images/work10.png",
+          "image": "/images/work10.png",
           "title": "Tech Horizon",
           "priceETH": 4.5,
           "highestBidWETH": 4.0
@@ -1059,62 +1059,62 @@
     {
       "id": 17,
       "name": "Jocelyn Westervelt",
-      "avatar": "/src/images/avatars_artists/Jocelyn.svg",
+      "avatar": "/images/avatars_artists/Jocelyn.svg",
       "rankChange": 12.8,
       "nftsSold": 280,
       "totalSales": 6200,
       "biography": "Jocelyn Westervelt is a digital artist known for his vibrant and intricate designs. His work often explores the intersection of technology and nature.",
        "works": [
         {
-          "image": "/src/images/work1.png",
+          "image": "/images/work1.png",
           "title": "Ethereal Tech",
           "priceETH": 3.0,
           "highestBidWETH": 2.7
         },
         {
-          "image": "/src/images/work2.png",
+          "image": "/images/work2.png",
           "title": "Virtual Meadow",
           "priceETH": 3.5,
           "highestBidWETH": 3.0
         },
         {
-          "image": "/src/images/work3.png",
+          "image": "/images/work3.png",
           "title": "Synthetic Garden",
           "priceETH": 4.0,
           "highestBidWETH": 3.5
         },
         {
-          "image": "/src/images/work4.png",
+          "image": "/images/work4.png",
           "title": "Tech Flora",
           "priceETH": 2.8,
           "highestBidWETH": 2.4
         },
         {
-          "image": "/src/images/work5.png",
+          "image": "/images/work5.png",
           "title": "Digital Breeze",
           "priceETH": 3.2,
           "highestBidWETH": 2.9
         },
         {
-          "image": "/src/images/work6.png",
+          "image": "/images/work6.png",
           "title": "Cyber Scape",
           "priceETH": 3.8,
           "highestBidWETH": 3.2
         },
         {
-          "image": "/src/images/work7.png",
+          "image": "/images/work7.png",
           "title": "Virtual Dawn",
           "priceETH": 4.2,
           "highestBidWETH": 3.7
         },
         {
-          "image": "/src/images/work8.png",
+          "image": "/images/work8.png",
           "title": "Synthetic Twilight",
           "priceETH": 3.7,
           "highestBidWETH": 3.3
         },
         {
-          "image": "/src/images/work9.png",
+          "image": "/images/work9.png",
           "title": "Tech Horizon",
           "priceETH": 4.5,
           "highestBidWETH": 4.0
@@ -1125,62 +1125,62 @@
     {
       "id": 18,
       "name": "Marilyn Torff",
-      "avatar": "/src/images/avatars_artists/Marilyn.svg",
+      "avatar": "/images/avatars_artists/Marilyn.svg",
       "rankChange": -5.2,
       "nftsSold": 78,
       "totalSales": 5990,
       "biography": "Marilyn Torff is a digital artist known for his vibrant and intricate designs. His work often explores the intersection of technology and nature.",
        "works": [
         {
-          "image": "/src/images/work1.png",
+          "image": "/images/work1.png",
           "title": "Ethereal Tech",
           "priceETH": 3.0,
           "highestBidWETH": 2.7
         },
         {
-          "image": "/src/images/work2.png",
+          "image": "/images/work2.png",
           "title": "Virtual Meadow",
           "priceETH": 3.5,
           "highestBidWETH": 3.0
         },
         {
-          "image": "/src/images/work3.png",
+          "image": "/images/work3.png",
           "title": "Synthetic Garden",
           "priceETH": 4.0,
           "highestBidWETH": 3.5
         },
         {
-          "image": "/src/images/work4.png",
+          "image": "/images/work4.png",
           "title": "Tech Flora",
           "priceETH": 2.8,
           "highestBidWETH": 2.4
         },
         {
-          "image": "/src/images/work5.png",
+          "image": "/images/work5.png",
           "title": "Digital Breeze",
           "priceETH": 3.2,
           "highestBidWETH": 2.9
         },
         {
-          "image": "/src/images/work6.png",
+          "image": "/images/work6.png",
           "title": "Cyber Scape",
           "priceETH": 3.8,
           "highestBidWETH": 3.2
         },
         {
-          "image": "/src/images/work7.png",
+          "image": "/images/work7.png",
           "title": "Virtual Dawn",
           "priceETH": 4.2,
           "highestBidWETH": 3.7
         },
         {
-          "image": "/src/images/work8.png",
+          "image": "/images/work8.png",
           "title": "Synthetic Twilight",
           "priceETH": 3.7,
           "highestBidWETH": 3.3
         },
         {
-          "image": "/src/images/work9.png",
+          "image": "/images/work9.png",
           "title": "Tech Horizon",
           "priceETH": 4.5,
           "highestBidWETH": 4.0
@@ -1191,62 +1191,62 @@
     {
       "id": 19,
       "name": "Skylar Levin",
-      "avatar": "/src/images/avatars_artists/Skylar.svg",
+      "avatar": "/images/avatars_artists/Skylar.svg",
       "rankChange": 28.5,
       "nftsSold": 900,
       "totalSales": 3801,
       "biography": "Skylar Levin is a digital artist known for his vibrant and intricate designs. His work often explores the intersection of technology and nature.",
        "works": [
         {
-          "image": "/src/images/work1.png",
+          "image": "/images/work1.png",
           "title": "Ethereal Tech",
           "priceETH": 3.0,
           "highestBidWETH": 2.7
         },
         {
-          "image": "/src/images/work2.png",
+          "image": "/images/work2.png",
           "title": "Virtual Meadow",
           "priceETH": 3.5,
           "highestBidWETH": 3.0
         },
         {
-          "image": "/src/images/work3.png",
+          "image": "/images/work3.png",
           "title": "Synthetic Garden",
           "priceETH": 4.0,
           "highestBidWETH": 3.5
         },
         {
-          "image": "/src/images/work4.png",
+          "image": "/images/work4.png",
           "title": "Tech Flora",
           "priceETH": 2.8,
           "highestBidWETH": 2.4
         },
         {
-          "image": "/src/images/work5.png",
+          "image": "/images/work5.png",
           "title": "Digital Breeze",
           "priceETH": 3.2,
           "highestBidWETH": 2.9
         },
         {
-          "image": "/src/images/work6.png",
+          "image": "/images/work6.png",
           "title": "Cyber Scape",
           "priceETH": 3.8,
           "highestBidWETH": 3.2
         },
         {
-          "image": "/src/images/work7.png",
+          "image": "/images/work7.png",
           "title": "Virtual Dawn",
           "priceETH": 4.2,
           "highestBidWETH": 3.7
         },
         {
-          "image": "/src/images/work8.png",
+          "image": "/images/work8.png",
           "title": "Synthetic Twilight",
           "priceETH": 3.7,
           "highestBidWETH": 3.3
         },
         {
-          "image": "/src/images/work9.png",
+          "image": "/images/work9.png",
           "title": "Tech Horizon",
           "priceETH": 4.5,
           "highestBidWETH": 4.0
@@ -1257,62 +1257,62 @@
     {
       "id": 20,
       "name": "Terry Dorwart",
-      "avatar": "/src/images/avatars_artists/Terry.svg",
+      "avatar": "/images/avatars_artists/Terry.svg",
       "rankChange": 50.8,
       "nftsSold": 1200,
       "totalSales": 7770,
       "biography": "Terry Dorwart is a contemporary artist known for his abstract works.",
        "works": [
         {
-          "image": "/src/images/work1.png",
+          "image": "/images/work1.png",
           "title": "Ethereal Tech",
           "priceETH": 3.0,
           "highestBidWETH": 2.7
         },
         {
-          "image": "/src/images/work2.png",
+          "image": "/images/work2.png",
           "title": "Virtual Meadow",
           "priceETH": 3.5,
           "highestBidWETH": 3.0
         },
         {
-          "image": "/src/images/work3.png",
+          "image": "/images/work3.png",
           "title": "Synthetic Garden",
           "priceETH": 4.0,
           "highestBidWETH": 3.5
         },
         {
-          "image": "/src/images/work4.png",
+          "image": "/images/work4.png",
           "title": "Tech Flora",
           "priceETH": 2.8,
           "highestBidWETH": 2.4
         },
         {
-          "image": "/src/images/work5.png",
+          "image": "/images/work5.png",
           "title": "Digital Breeze",
           "priceETH": 3.2,
           "highestBidWETH": 2.9
         },
         {
-          "image": "/src/images/work6.png",
+          "image": "/images/work6.png",
           "title": "Cyber Scape",
           "priceETH": 3.8,
           "highestBidWETH": 3.2
         },
         {
-          "image": "/src/images/work7.png",
+          "image": "/images/work7.png",
           "title": "Virtual Dawn",
           "priceETH": 4.2,
           "highestBidWETH": 3.7
         },
         {
-          "image": "/src/images/work8.png",
+          "image": "/images/work8.png",
           "title": "Synthetic Twilight",
           "priceETH": 3.7,
           "highestBidWETH": 3.3
         },
         {
-          "image": "/src/images/work9.png",
+          "image": "/images/work9.png",
           "title": "Tech Horizon",
           "priceETH": 4.5,
           "highestBidWETH": 4.0

@@ -56,7 +56,7 @@ const Header = () => {
     <header>
       <nav>
         <Link to="/">
-          <img src="/src/images/logo.svg" alt="logo" /> {/* Логотип з переходом на головну сторінку*/}
+          <img src="/images/logo.svg" alt="logo" /> {/* Логотип з переходом на головну сторінку*/}
         </Link>
         <button className="burger-menu" onClick={toggleMenu}>
           &#9776; {/* Іконка гамбургера для меню */}
@@ -73,7 +73,7 @@ const Header = () => {
             <>
               <Link to="/artist">
                 <button className="btn-sign-up">
-                  <img src="/src/images/user_btn.svg" alt="user" />My Account
+                  <img src="/images/user_btn.svg" alt="user" />My Account
                 </button>
               </Link>
               <button className="btn-sign-up" onClick={logout}>
@@ -82,7 +82,7 @@ const Header = () => {
             </>
           ) : (
             <button className="btn-sign-up" onClick={handleSignUpClick}>
-              <img src="/src/images/user_btn.svg" alt="user" />Login
+              <img src="/images/user_btn.svg" alt="user" />Login
             </button>
           )}
         </div>

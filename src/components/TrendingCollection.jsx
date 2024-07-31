@@ -20,36 +20,36 @@ const TrendingCollection = () => {
   // Дані для колекцій
   const collections = [
     {
-      mainImage: './src/images/animals_dog_big.png',
+      mainImage: '/images/animals_dog_big.png',
       images: [
-        './src/images/animals_cat_small.png',
-        './src/images/animals_bear_small.png',
+        '/images/animals_cat_small.png',
+        '/images/animals_bear_small.png',
       ],
       additionalCount: 25,
       name: 'DSGN Animals',
-      authorAvatar: './src/images/Ava_trendColl1.svg',
+      authorAvatar: '/images/Ava_trendColl1.svg',
       authorName: 'MrFox',
     },
     {
-      mainImage: './src/images/mushrooms1_big.png',
+      mainImage: '/images/mushrooms1_big.png',
       images: [
-        './src/images/mushrooms2_small.png',
-        './src/images/mushrooms3_small.png',
+        '/images/mushrooms2_small.png',
+        '/images/mushrooms3_small.png',
       ],
       additionalCount: 33,
       name: 'Magic Mushrooms',
-      authorAvatar: './src/images/Ava_trendColl2.svg',
+      authorAvatar: '/images/Ava_trendColl2.svg',
       authorName: 'Shroomie',
     },
     {
-      mainImage: './src/images/machines1_big.png',
+      mainImage: '/images/machines1_big.png',
       images: [
-        './src/images/machines2_small.png',
-        './src/images/machines3_small.png',
+        '/images/machines2_small.png',
+        '/images/machines3_small.png',
       ],
       additionalCount: 57,
       name: 'Disco Machines',
-      authorAvatar: './src/images/Ava_trendColl3.svg',
+      authorAvatar: '/images/Ava_trendColl3.svg',
       authorName: 'BeKind2Robots',
     },
   ];
@@ -125,19 +125,19 @@ const TrendingCollection = () => {
               <div className="full-collection">
                 <div onClick={() => handleExpandCollection(index)}>
                   <img
-                    src="./src/images/mushrooms2_small.png"
+                    src="/images/mushrooms2_small.png"
                     alt="photo-collection1"
                   />
                 </div>
                 <div onClick={() => handleExpandCollection(index)}>
                   <img
-                    src="./src/images/mushrooms3_small.png"
+                    src="/images/mushrooms3_small.png"
                     alt="photo-collection1"
                   />
                 </div>
                 <div onClick={() => handleExpandCollection(index)}>
                   <img
-                    src="./src/images/animals_cat_small.png"
+                    src="/images/animals_cat_small.png"
                     alt="photo-collection1"
                   />
                 </div>

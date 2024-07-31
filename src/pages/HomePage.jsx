@@ -47,14 +47,14 @@ const Home = () => {
           {/* Кнопка "Get Started" */}
           <BtnGetStarted
             text="Get Started"
-            iconSrc="./src/images/RocketLaunch.svg"
+            iconSrc="/images/RocketLaunch.svg"
           />
           {/* Компонент Ratings */}
           <Ratings />
         </div>
         {/* Зображення на головній сторінці */}
         <div className="home-image">
-          <img src="./src/images/Highlighted_NFT.png" alt="highlighted" />
+          <img src="/images/Highlighted_NFT.png" alt="highlighted" />
         </div>
       </div>
 
@@ -64,7 +64,7 @@ const Home = () => {
       {/* Блок для підписки на розсилку */}
       <div className="subscribe-container">
         <div className="subscribe-image">
-          <img src="./src/images/subscribe-form.png" alt="subscribe form" />
+          <img src="/images/subscribe-form.png" alt="subscribe form" />
         </div>
         <div className="subscribe-form-container">
           {/* Компонент EmailSubscription */}
@@ -77,7 +77,7 @@ const Home = () => {
       <div className="how-it-works__container">
         <div className="banner-container">
           <img
-            src="./src/images/NFT-home-banner.png"
+            src="/images/NFT-home-banner.png"
             alt="homepage banner"
             className="banner-image"
           />
@@ -97,7 +97,7 @@ const Home = () => {
             onClick={handleConnectWalletClick}
           >
             <img
-              src="./src/images/home-set-wallet.png"
+              src="/images/home-set-wallet.png"
               alt="Setup Your wallet"
             />
             <div className="how-it-works__card-content">
@@ -111,7 +111,7 @@ const Home = () => {
           {/* Картка з описом процесу створення колекції */}
           <div className="how-it-works__card">
             <img
-              src="./src/images/home-create-collection.png"
+              src="/images/home-create-collection.png"
               alt="Create Collection"
             />
             <div className="how-it-works__card-content">
@@ -128,7 +128,7 @@ const Home = () => {
             onClick={handleCreateAccountClick}
           >
             <img
-              src="./src/images/home-start-earning.png"
+              src="/images/home-start-earning.png"
               alt="Start Earning"
             />
             <div className="how-it-works__card-content">

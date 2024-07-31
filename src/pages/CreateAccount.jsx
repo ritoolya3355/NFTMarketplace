@@ -106,7 +106,7 @@ const CreateAccount = () => {
   return (
     <div className="create-account-container">
       <div className="create-account-image">
-        <img src="../src/images/Createaccount.svg" alt="highlighted" />
+        <img src="/images/Createaccount.svg" alt="highlighted" />
       </div>
       <div className="account">
         <h2>Create account</h2>

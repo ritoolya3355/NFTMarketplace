@@ -24,7 +24,7 @@ const ScrollToTopButton = () => {
   return (
     isVisible && (
       <div className="scroll-to-top" onClick={scrollToTop}>
-        <img src="./src/images/up.png" alt="Scroll to top" />
+        <img src="/images/up.png" alt="Scroll to top" />
       </div>
     )
   );

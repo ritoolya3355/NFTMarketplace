@@ -26,7 +26,7 @@ const ConnectWallet = () => {
     <div className="connect-wallet-page">
       <div className="image-container">
         {/* Зображення для сторінки підключення гаманця */}
-        <img src="../src/images/Createaccount.svg" alt="highlighted" />
+        <img src="/images/Createaccount.svg" alt="highlighted" />
       </div>
       <div className="content-container">
         <h1>Connect Your Wallet</h1>
@@ -34,17 +34,17 @@ const ConnectWallet = () => {
         <div className="wallet-buttons">
           {/* Кнопка для підключення через MetaMask */}
           <a className="wallet-button" onClick={connectMetaMask}>
-            <img src="/src/images/Metamask.svg" alt="Metamask" />
+            <img src="/images/Metamask.svg" alt="Metamask" />
             Metamask
           </a>
           {/* Кнопка для підключення через Wallet Connect */}
           <a className="wallet-button">
-            <img src="/src/images/WalletConnect.svg" alt="Wallet Connect" />
+            <img src="/images/WalletConnect.svg" alt="Wallet Connect" />
             Wallet Connect
           </a>
           {/* Кнопка для підключення через Coinbase */}
           <a className="wallet-button">
-            <img src="/src/images/Coinbase.svg" alt="Coinbase" />
+            <img src="/images/Coinbase.svg" alt="Coinbase" />
             Coinbase
           </a>
         </div>
