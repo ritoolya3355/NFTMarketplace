@@ -118,7 +118,7 @@ nav ul li a:hover {
 }
 
 @media (max-width: 768px) {
-  nav{
+  nav {
     justify-content: space-around;
   }
   nav img {
@@ -127,23 +127,27 @@ nav ul li a:hover {
   .burger-menu {
     display: block;
   }
-
   nav ul.menu {
     display: none;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    margin: 0;
   }
-
   nav ul.menu.open {
     display: block;
   }
-
-  .btn-sign-up{
+  nav ul li {
+    display: block;
+    margin-left: 0;
+    margin: 10px 0;
+  }
+  .btn-sign-up {
     font-size: 1.2rem;
     font-weight: 400;
     justify-content: center;
-     }
-
-  .btn-sign-up>img {
+  }
+  .btn-sign-up > img {
     display: none;
-   }
-  
+  }
 }
