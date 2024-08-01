@@ -68,7 +68,7 @@ const Footer = () => {
               <Link to="/rankings">Rankings</Link>
             </li>
             <li>
-              <Link to="#">Connect a wallet</Link>
+              <Link to="/connect-wallet">Connect a wallet</Link>
             </li>
           </ul>
         </div>

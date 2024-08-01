@@ -76,7 +76,7 @@ The **NFTPage** is the artist's works page, where a countdown timer is implement
     ```sh
     npm install
     ```
-
+---
 1. Clone the repository:
     ```sh
     git clone https://github.com/ritoolya3355/NFTMarketplace
